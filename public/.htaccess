@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+
+# إذا لم يكن الملف أو المجلد موجودًا، أعد التوجيه إلى index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [QSA,L]

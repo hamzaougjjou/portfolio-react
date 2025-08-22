@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- English URLs -->
+  <url><loc>https://ougjjou.com/</loc></url>
+  <url><loc>https://ougjjou.com/about</loc></url>
+  <url><loc>https://ougjjou.com/projects</loc></url>
+  <url><loc>https://ougjjou.com/contact</loc></url>
+  <url><loc>https://ougjjou.com/blog</loc></url>
+
+  <!-- Arabic URLs -->
+  <url><loc>https://ougjjou.com/ar</loc></url>
+  <url><loc>https://ougjjou.com/ar/about</loc></url>
+  <url><loc>https://ougjjou.com/ar/projects</loc></url>
+  <url><loc>https://ougjjou.com/ar/contact</loc></url>
+  <url><loc>https://ougjjou.com/ar/blog</loc></url>
+
+  <!-- French URLs -->
+  <url><loc>https://ougjjou.com/fr</loc></url>
+  <url><loc>https://ougjjou.com/fr/about</loc></url>
+  <url><loc>https://ougjjou.com/fr/projects</loc></url>
+  <url><loc>https://ougjjou.com/fr/contact</loc></url>
+  <url><loc>https://ougjjou.com/fr/blog</loc></url>
+</urlset>

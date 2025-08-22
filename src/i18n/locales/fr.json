@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis Hamza ougjjou",
+    "title": "Développeur web full stack",
+    "description": "Hamza est un développeur web full stack qualifié du Maroc, spécialisé dans la création d'applications web dynamiques et réactives. Avec une expertise en développement frontend et backend, il crée des expériences numériques dynamiques et conviviales. Hamza est passionné par l'utilisation des dernières technologies pour créer des solutions innovantes qui répondent aux besoins des clients et dépassent les attentes.",
+    "downloadCV": "Télécharger CV",
+    "portfolioShowcase": "Vitrine Portfolio"
+  },
+  "services": {
+    "title": "Services",
+    "webDesign": {
+      "title": "Conception Web",
+      "description": "Créer n'importe quelle mise en page, soit comme un site web complet, soit en créant une page web à partir de zéro."
+    },
+    "webDevelopment": {
+      "title": "Développement Web",
+      "description": "Convertir vos fichiers en applications web full stack avec des technologies modernes."
+    },
+    "mobileApp": {
+      "title": "Développement d'Applications Mobiles",
+      "description": "Créer des fichiers web pour votre site, en se concentrant sur l'utilisabilité et l'expérience utilisateur."
+    },
+    "readMore": "Lire Plus"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "featuredTitle": "Projets en Vedette",
+    "featuresTitle": "Projets Caractéristiques",
+    "description": "Explorez ma collection d'applications web, d'applications mobiles et de solutions numériques. Chaque projet représente un défi unique résolu avec des technologies modernes et une pensée créative.",
+    "viewDetails": "Voir Détails",
+    "viewProject": "Voir Projet",
+    "viewAllProjects": "Voir Tous les Projets",
+    "liveDemo": "Démo Live",
+    "code": "Code",
+    "backToProjects": "Retour aux Projets",
+    "projectNotFound": "Projet Non Trouvé",
+    "searchPlaceholder": "Rechercher des projets par nom, technologie ou description...",
+    "filters": "Filtres",
+    "showingResults": "Affichage de {{count}} sur {{total}} projets",
+    "forSearch": " pour \"{{term}}\"",
+    "noProjectsFound": "Aucun Projet Trouvé",
+    "noProjectsDescription": "Essayez d'ajuster vos termes de recherche ou filtres de catégorie.",
+    "clearFilters": "Effacer Filtres",
+    "projectDetails": "Détails du Projet",
+    "technologiesUsed": "Technologies Utilisées",
+    "projectOverview": "Aperçu du Projet",
+    "projectOverviewDescription": "Ce projet présente les pratiques modernes de développement web et démontre la maîtrise de {{technologies}}. L'application présente un design réactif, une interface utilisateur propre et des fonctionnalités robustes qui offrent une excellente expérience utilisateur.",
+    "keyFeatures": "Fonctionnalités Clés",
+    "keyFeaturesList": [
+      "Design réactif qui fonctionne sur tous les appareils",
+      "Interface utilisateur moderne et propre",
+      "Chargement rapide et performance optimisée",
+      "Compatibilité multi-navigateurs",
+      "Structure SEO-friendly",
+      "Design accessible suivant les directives WCAG"
+    ],
+    "categories": {
+      "all": "Tous les Projets",
+      "webDevelopment": "Développement Web",
+      "mobileDevelopment": "Développement Mobile",
+      "uiUxDesign": "Design UI/UX",
+      "ecommerce": "E-commerce",
+      "dashboard": "Tableau de Bord",
+      "api": "Développement API"
+    },
+    "stats": {
+      "totalProjects": "Total Projets",
+      "technologiesUsed": "Technologies Utilisées",
+      "yearsExperience": "Années d'Expérience",
+      "happyClients": "Clients Satisfaits"
+    }
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "subtitle": "Apprenez-en plus sur mon parcours, mes compétences et ma passion pour le développement web.",
+    "myStory": "Mon Histoire",
+    "storyDescription": "Je suis engagé vers l'excellence et motivé par l'innovation, ce qui fait de moi un atout précieux pour tout projet. Mon objectif est de créer des solutions numériques qui non seulement répondent mais dépassent les attentes des clients.",
+    "location": "Localisation",
+    "email": "Email",
+    "phone": "Téléphone",
+    "experience": "Expérience",
+    "education": "Éducation",
+    "jobs": {
+      "fullStackDeveloper": {
+        "title": "Développeur Full Stack",
+        "company": "Freelance",
+        "period": "2022 - Présent",
+        "description": "Développement d'applications web utilisant React, Laravel et Node.js. Travail avec les clients pour créer des solutions personnalisées pour leurs besoins commerciaux."
+      },
+      "frontendDeveloper": {
+        "title": "Développeur Frontend",
+        "company": "Entreprise Tech",
+        "period": "2021 - 2022",
+        "description": "Construction d'interfaces web réactives utilisant React et des frameworks CSS modernes. Collaboration avec les équipes de design pour implémenter des designs pixel-perfect."
+      }
+    },
+    "educations": {
+      "computerScience": {
+        "title": "Diplôme en Informatique",
+        "school": "Université du Maroc",
+        "period": "2018 - 2021",
+        "description": "Étude des fondamentaux de l'informatique, des algorithmes et des principes de génie logiciel."
+      },
+      "webBootcamp": {
+        "title": "Bootcamp Développement Web",
+        "school": "Cours en Ligne",
+        "period": "2020",
+        "description": "Programme intensif couvrant les technologies modernes de développement web incluant React, Node.js et les bases de données."
+      }
+    }
+  },
+  "skills": {
+    "title": "Compétences Techniques",
+    "subtitle": "Voici les technologies et outils avec lesquels je travaille pour créer des expériences numériques incroyables.",
+    "proficiency": "Maîtrise",
+    "levels": {
+      "expert": "Expert",
+      "advanced": "Avancé",
+      "intermediate": "Intermédiaire",
+      "beginner": "Débutant"
+    },
+    "categories": {
+      "frontend": {
+        "title": "Frontend",
+        "description": "Développement UI/UX moderne avec React, HTML5, CSS3 et principes de design réactif."
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "Développement côté serveur avec Node.js, PHP Laravel et gestion de bases de données."
+      },
+      "tools": {
+        "title": "Outils",
+        "description": "Outils de développement modernes, contrôle de version et stratégies de déploiement."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-Moi",
+    "subtitle": "Prêt à commencer votre prochain projet ? Contactez-moi et créons quelque chose d'incroyable ensemble.",
+    "getInTouch": "Entrer en Contact",
+    "sendMessage": "Envoyer Message",
+    "whyWorkWithMe": "Pourquoi Travailler Avec Moi ?",
+    "reasons": [
+      "Expertise en développement full-stack",
+      "Technologies modernes et meilleures pratiques",
+      "Designs réactifs et conviviaux",
+      "Livraison rapide et excellente communication",
+      "Support et maintenance post-lancement"
+    ],
+    "form": {
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "subject": "Sujet",
+      "message": "Votre Message",
+      "loading": "Envoi en cours...",
+      "submit": "Envoyer Message",
+      "success": "Votre message a été envoyé avec succès.",
+      "error": "Échec de l'envoi de votre message"
+    }
+  },
+  "blog": {
+    "title": "Notre Blog",
+    "subtitle": "Découvrez mes derniers articles et mises à jour sur l'informatique.",
+    "readMore": "Lire Plus",
+    "loadMore": "Charger Plus d'Articles",
+    "author": "Auteur",
+    "date": "Date",
+    "category": "Catégorie"
+  },
+  "cta": {
+    "title": "Travaillons ensemble sur votre prochain projet",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore tempore nam, architecto doloremque velit explicabo aliquid totam. Sunt dolorum minima deleniti, impedit voluptas voluptatum placeat.",
+    "button": "Contact"
+  },
+  "footer": {
+    "copyright": "© 2024 Hamza ougjjou. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "download": "Télécharger"
+  }
+}

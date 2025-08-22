@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "greeting": "Hello, I'm Hamza ougjjou",
+    "title": "Full stack web Developer",
+    "description": "Hamza is a skilled full stack web developer from Morocco, specializing in creating dynamic and responsive web applications. With expertise in both frontend and backend development, he crafts dynamic and user-friendly digital experiences. Hamza is passionate about leveraging the latest technologies to build innovative solutions that meet client needs and exceed expectations.",
+    "downloadCV": "Download CV",
+    "portfolioShowcase": "Portfolio Showcase"
+  },
+  "services": {
+    "title": "Services",
+    "webDesign": {
+      "title": "Web Design",
+      "description": "Create any layout, either as a full website, or creating a web page from scratch."
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Convert your files to full stack web applications with modern technologies."
+    },
+    "mobileApp": {
+      "title": "Mobile App Development",
+      "description": "Create web files for your site, looking at usability and user experience."
+    },
+    "readMore": "Read More"
+  },
+  "projects": {
+    "title": "My Projects",
+    "featuredTitle": "Featured Projects",
+    "featuresTitle": "Features Project",
+    "description": "Explore my collection of web applications, mobile apps, and digital solutions. Each project represents a unique challenge solved with modern technologies and creative thinking.",
+    "viewDetails": "View Details",
+    "viewProject": "View Project",
+    "viewAllProjects": "View All Projects",
+    "liveDemo": "Live Demo",
+    "code": "Code",
+    "backToProjects": "Back to Projects",
+    "projectNotFound": "Project Not Found",
+    "searchPlaceholder": "Search projects by name, technology, or description...",
+    "filters": "Filters",
+    "showingResults": "Showing {{count}} of {{total}} projects",
+    "forSearch": " for \"{{term}}\"",
+    "noProjectsFound": "No Projects Found",
+    "noProjectsDescription": "Try adjusting your search terms or category filters.",
+    "clearFilters": "Clear Filters",
+    "projectDetails": "Project Details",
+    "technologiesUsed": "Technologies Used",
+    "projectOverview": "Project Overview",
+    "projectOverviewDescription": "This project showcases modern web development practices and demonstrates proficiency in {{technologies}}. The application features a responsive design, clean user interface, and robust functionality that provides an excellent user experience.",
+    "keyFeatures": "Key Features",
+    "keyFeaturesList": [
+      "Responsive design that works on all devices",
+      "Modern and clean user interface",
+      "Fast loading and optimized performance",
+      "Cross-browser compatibility",
+      "SEO-friendly structure",
+      "Accessible design following WCAG guidelines"
+    ],
+    "categories": {
+      "all": "All Projects",
+      "webDevelopment": "Web Development",
+      "mobileDevelopment": "Mobile Development",
+      "uiUxDesign": "UI/UX Design",
+      "ecommerce": "E-commerce",
+      "dashboard": "Dashboard",
+      "api": "API Development"
+    },
+    "stats": {
+      "totalProjects": "Total Projects",
+      "technologiesUsed": "Technologies Used",
+      "yearsExperience": "Years Experience",
+      "happyClients": "Happy Clients"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know more about my journey, skills, and passion for web development.",
+    "myStory": "My Story",
+    "storyDescription": "I am committed to excellence and driven by innovation, making me a valuable asset to any project. My goal is to create digital solutions that not only meet but exceed client expectations.",
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "experience": "Experience",
+    "education": "Education",
+    "jobs": {
+      "fullStackDeveloper": {
+        "title": "Full Stack Developer",
+        "company": "Freelance",
+        "period": "2022 - Present",
+        "description": "Developing web applications using React, Laravel, and Node.js. Working with clients to create custom solutions for their business needs."
+      },
+      "frontendDeveloper": {
+        "title": "Frontend Developer",
+        "company": "Tech Company",
+        "period": "2021 - 2022",
+        "description": "Built responsive web interfaces using React and modern CSS frameworks. Collaborated with design teams to implement pixel-perfect designs."
+      }
+    },
+    "educations": {
+      "computerScience": {
+        "title": "Computer Science Degree",
+        "school": "University of Morocco",
+        "period": "2018 - 2021",
+        "description": "Studied computer science fundamentals, algorithms, and software engineering principles."
+      },
+      "webBootcamp": {
+        "title": "Web Development Bootcamp",
+        "school": "Online Course",
+        "period": "2020",
+        "description": "Intensive program covering modern web development technologies including React, Node.js, and databases."
+      }
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Here are the technologies and tools I work with to create amazing digital experiences.",
+    "proficiency": "Proficiency",
+    "levels": {
+      "expert": "Expert",
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "beginner": "Beginner"
+    },
+    "categories": {
+      "frontend": {
+        "title": "Frontend",
+        "description": "Modern UI/UX development with React, HTML5, CSS3, and responsive design principles."
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "Server-side development with Node.js, PHP Laravel, and database management."
+      },
+      "tools": {
+        "title": "Tools",
+        "description": "Modern development tools, version control, and deployment strategies."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Ready to start your next project? Get in touch and let's create something amazing together.",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Message",
+    "whyWorkWithMe": "Why Work With Me?",
+    "reasons": [
+      "Full-stack development expertise",
+      "Modern technologies and best practices",
+      "Responsive and user-friendly designs",
+      "Fast delivery and excellent communication",
+      "Post-launch support and maintenance"
+    ],
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "loading": "Sending...",
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully.",
+      "error": "Failed to send your message"
+    }
+  },
+  "blog": {
+    "title": "Our Blog",
+    "subtitle": "Stay updated with my latest IT articles, tutorials, and insights.",
+    "readMore": "Read More",
+    "loadMore": "Load More Posts",
+    "author": "Author",
+    "date": "Date",
+    "category": "Category"
+  },
+  "cta": {
+    "title": "Let's work together on Your next project",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore tempore nam, architecto doloremque velit explicabo aliquid totam. Sunt dolorum minima deleniti, impedit voluptas voluptatum placeat.",
+    "button": "Contact"
+  },
+  "footer": {
+    "copyright": "© 2024 Hamza ougjjou. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "close": "Close",
+    "open": "Open",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download"
+  }
+}
